@@ -37,8 +37,8 @@ In order to make everything running as smoothly as possible, it is important to 
 To help you identifying the problems the project heads together with the organisers are here to help you.
 
 ## Discord
-A Discord channel have been created for the hackathon: [https://discord.gg/nMxjtuwD](https://discord.gg/nMxjtuwD).
-It has with channels dedicated to each project and also more general channels.
+A Discord channel have been created for the hackathon. If you need the access link please let the organiser know.
+It has channels dedicated to each project and also more general channels.
 
 ## GitHub
 To keep the code organized, we encourage you to use GitHub though it is not mandatory.
