@@ -4,6 +4,28 @@ This is the GitHub repository for the [CENTURI Hackathon 2024 For quantitative b
 
 ## Welcome to the third CENTURI Hackathon!
 
+First of all here is a bit of information about how the weekend will go:
+
+- Friday the 28th:
+  - 13:00 Welcoming of the hackers (the rooms will be available from 17:00 onwards, a room will be provided to leave the suitcases)
+  - 14:00 Official start of the hackathon
+  - 19:30 Dinner
+  - 00:00 End of the first day
+- Saturday the 29th:
+  - 07:30 Breakfast
+  - 09:00 Start of the second day
+  - 12:30 Lunch
+  - 19:30 Dinner
+  - 00:00 End of the second day
+- Sunday the 30th:
+  - 07:30 Breakfast
+  - 09:00 Start of the third day
+  - 12:00 End of the coding part of the hackathon
+  - 12:30 Lunch
+  - 13:30 Presentation of the project, announcement of the winners and final words
+  - 16:00 End of the Hackathon
+
+## Organisation
 During this weekend, you will be working in groups of _6 to 8_ people.
 In order to make everything running as smoothly as possible, it is important to identify the different problems that you will be working on and to split the team members across these specific tasks.
 
