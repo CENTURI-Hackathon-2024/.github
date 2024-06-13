@@ -20,10 +20,15 @@ First of all here is a bit of information about how the weekend will go:
 - Sunday the 30th:
   - 07:30 Breakfast
   - 09:00 Start of the third day
+  - 10:00 Last time to give back the room keys
   - 12:00 End of the coding part of the hackathon
   - 12:30 Lunch
   - 13:30 Presentation of the project, announcement of the winners and final words
   - 16:00 End of the Hackathon
+
+## Two IMPORTANT points of pratical information
+1. To be on site you HAVE TO WEAR THE BRACELET!
+2. CENTURI does **NOT** cover alcohol at the bar
 
 ## Organisation
 During this weekend, you will be working in groups of _6 to 8_ people.
